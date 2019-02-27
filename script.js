@@ -9,7 +9,7 @@ for(var i=0; i <7; i++){south(); east();};
 
  //4
 
-    for(var i=0; i < 21; i++){if	(isFree("south"))	
+    for(var i=0; i < 13; i++){if	(isFree("south"))	
         {
            south()
         } else{
